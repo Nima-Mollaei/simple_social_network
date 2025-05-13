@@ -19,7 +19,7 @@ A user-friendly Django-based social networking site built using Django Template 
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### 1. Clone the repository:
 
 ```bash
 git clone https://github.com/Nima-Mollaei/simple_social_network.git
