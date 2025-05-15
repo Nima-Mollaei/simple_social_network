@@ -60,7 +60,7 @@ EMAIL_HOST_PASSWORD=your_app_password
 EMAIL_USE_TLS=True
 ```
 
-### 5. Run Migrations
+### 5. Run Migrations:
 
 ```bash
 python manage.py makemigrations
