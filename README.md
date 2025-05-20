@@ -73,7 +73,7 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-### 7. Run the Server
+### 7. Run the Server:
 
 ```bash
 python manage.py runserver
