@@ -48,7 +48,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Configure Environment Variables
+### 4. Configure Environment Variables:
 
 Set your Gmail SMTP settings in `.env` or directly in `settings.py`:
 
