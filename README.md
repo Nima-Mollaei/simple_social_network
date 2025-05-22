@@ -67,13 +67,13 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-### 6. Create Superuser (Optional):
+### 6. Create Superuser (Optional)
 
 ```bash
 python manage.py createsuperuser
 ```
 
-### 7. Run the Server:
+### 7. Run the Server
 
 ```bash
 python manage.py runserver
